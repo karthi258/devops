@@ -1,1 +1,18 @@
 1
+git pull
+git push
+git fetch
+git config
+git checkout
+git log
+git status
+git stash
+git cheery pick
+git revert
+git rebase
+git reset
+git merge conflict
+git merge
+git clone
+git add
+git commit
